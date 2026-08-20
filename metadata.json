@@ -1,0 +1,7 @@
+{
+  "name": "Kas Pintar RT004/08",
+  "description": "Aplikasi Kas Pintar RT004/08 Jati, Pulogadung dengan autentikasi PIN 4 digit pengurus RT, pencatatan arus kas, iuran warga, dan buku kas kecil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
